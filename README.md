@@ -21,9 +21,9 @@ Sistem Informasi Pelaporan Kegiatan Berbasis Laravel
 
 ## Overview
 
-LapGiat merupakan aplikasi berbasis web yang dikembangkan menggunakan **Laravel** untuk membantu proses pelaporan kegiatan secara digital. Sistem ini dirancang agar proses pencatatan, pengelolaan data, dan monitoring kegiatan dapat dilakukan secara lebih cepat, efisien, dan terpusat.
+Silapgiat merupakan aplikasi berbasis web responsif yang dikembangkan menggunakan **Laravel** untuk membantu proses pelaporan kegiatan secara digital. Sistem ini dirancang agar proses pencatatan, pengelolaan data, dan monitoring kegiatan dapat dilakukan secara lebih cepat, efisien, dan terpusat.
 
-Aplikasi menyediakan fitur manajemen pengguna, pegawai, lokasi, laporan kegiatan, notifikasi, serta dashboard monitoring yang mudah digunakan.
+Aplikasi menyediakan fitur manajemen pengguna, pegawai, lokasi, laporan kegiatan, rekap data, notifikasi, serta dashboard monitoring yang mudah digunakan.
 
 ---
 
