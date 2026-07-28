@@ -240,7 +240,7 @@ Setiap pengguna hanya dapat mengakses menu sesuai dengan hak akses yang dimiliki
 
 # 👨‍💻 Developer
 
-**Nama :** Candra M Rizki
+**Nama :** Aghstykhrani
 
 GitHub :
 
